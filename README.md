@@ -1,4 +1,4 @@
-    # Attendance Tracker
+# Attendance Tracker
 
 ## Requirements
 - Install ruby and rails
